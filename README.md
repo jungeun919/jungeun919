@@ -1,5 +1,3 @@
-### Hi, I'm Jungeun 👋
-
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
 ## ***🛠Tech Stack***
 |Category|Detail|
@@ -11,19 +9,18 @@
 |IDEs & Tools|![](http://img.shields.io/badge/VS%20Code-007ACC?style-flat-007ACC&logo=visual-studio-code&logoColor=ffff) ![](http://img.shields.io/badge/Eclipse-2C2255?style-flat-2C2255&logo=eclipse&logoColor=ffffff) ![](http://img.shields.io/badge/Intellij-000000?style-flat-000000&logo=Intellij-IDEA&logoColor=ffffff) ![](https://img.shields.io/badge/Colab-00b56a.svg?style-flat-00b56a&logo=google-colab&logoColor=white) ![](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style-flat-%23F37626&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Git%20-%23F05033.svg?style-flat-%23F05033&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style-flat-100000&logo=github&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style-flat-000000&logo=markdown)|
 |Framework|![](https://img.shields.io/badge/Django-092E20.svg?style-flat-092E20&logo=Django&logoColor=white) ![](https://img.shields.io/badge/Flask-000000.svg?style-flat-000000&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F.svg?style-flat-6DB33F&logo=Spring&logoColor=white) ![](https://img.shields.io/badge/Tensorflow-FF6F00.svg?style-flat-FF6F00&logo=Tensorflow&logoColor=white) ![](https://img.shields.io/badge/Pytorch-EE4C2C.svg?style-flat-EE4C2C&logo=Pytorch&logoColor=white)|
 |Infra|![](https://img.shields.io/badge/Aws-FF9900.svg?style-flat-FF9900&logo=Amazon-AWS&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED.svg?style-flat-2496ED&logo=Docker&logoColor=white)|
-
-<br><br>
+<br>
 
 
 <!-- <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> -->
 ## ***📈 Stats***
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jungeun&show_icons=true&locale=en" alt="Jungeun" width="410" /></p>
-<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jungeun919&show_icons=true&locale=en" alt="Jungeun" width="410" />
+<br>
 
 
 <!-- <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> -->
-## ***🐍 Snake eating up my contributions***
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+<!-- ## ***🐍 Snake eating up my contributions***
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif) -->
 
 
 
